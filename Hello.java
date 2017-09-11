@@ -25,6 +25,9 @@ public class Hello {
     public static void redLeader() {
  
          System.out.println("I copy, gold leader!");
+
+         System.out.println("I copy, gold leader!");
+
         
 
     }
